@@ -16,5 +16,5 @@ function likeToy(toyId) {
 
 document.addEventListener('DOMContentLoaded', () => {
     fetchToys();
-   .
+
 })
